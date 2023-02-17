@@ -34,5 +34,5 @@ This will start the development server for the frontend, and you should be able 
 
 ### Credential for admin-panel
 
-username: admin
+username: admin<br/>
 password: pancakes
