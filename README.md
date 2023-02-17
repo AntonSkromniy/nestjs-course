@@ -31,3 +31,8 @@ npm run start
 
 ```
 This will start the development server for the frontend, and you should be able to access the application by visiting http://localhost:3000 in your browser.
+
+### Credential for admin-panel
+
+username: admin
+password: pancakes
