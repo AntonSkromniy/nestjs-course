@@ -5,15 +5,13 @@ This repository contains two folders: backend and admin-panel-frontend. The back
 ### Installation
 
 * To get started, clone the repository to your local machine.
-```
-code blocks for commands
-```
+
 
 ### Running the Backend
 
-* To start the NestJS application, navigate to the backend folder and run the following command:
+ To start the NestJS application, navigate to the backend folder and run the following command:
 
-```
+*```
 npm install
 ```
 ```
@@ -24,6 +22,9 @@ npm run start:dev
 ### Running the Frontend
 
 *To start the React frontend, navigate to the admin-panel-frontend folder and run the following command:
+```
+npm install
+```
 ```
 npm run start
 
