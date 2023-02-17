@@ -24,7 +24,7 @@ npm run start:dev
 *To start the React frontend, navigate to the admin-panel-frontend folder and run the following command:
 
 ```
-npm install
+npm install --force
 ```
 ```
 npm run start
