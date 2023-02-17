@@ -11,12 +11,13 @@ code blocks for commands
 
 ### Running the Backend
 
-*To start the NestJS application, navigate to the backend folder and run the following command:
-```
-npm install
-npm run start:dev
+* To start the NestJS application, navigate to the backend folder and run the following command:
 
+```npm install
 ```
+```npm run start:dev
+```
+
 
 ### Running the Frontend
 
