@@ -1,6 +1,6 @@
 # nestjs-course
 
-This repository contains two folders: backend and admin-panel-frontend. The backend folder contains the NestJS application, and the admin-panel-frontend folder contains the React frontend.
+This repository contains a NestJS backend and a React frontend for a web application. The backend folder contains the NestJS application, and the admin-panel-frontend folder contains the React frontend.
 
 ### Installation
 
